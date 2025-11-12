@@ -1,0 +1,7 @@
+#  Crashes
+
+Об анатомии крэшей на iOS «по-взрослому»
+https://habr.com/ru/companies/odnoklassniki/articles/858302/
+
+Давид Чупреев, VK / OK — Под капотом iOS-крэшей
+https://www.youtube.com/watch?v=BC-eQYERI8Y
