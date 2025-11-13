@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=hbY1KTI0g70
 
 Осторожно, Combine!
 https://www.youtube.com/watch?v=zPg_grCo9zA
+
+Combine – швейцарский нож iOS-разработчика. Или нет?
+https://habr.com/ru/companies/banki/articles/958650/
