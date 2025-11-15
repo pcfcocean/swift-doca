@@ -3,14 +3,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftDoca",
+    name: "Doca",
     products: [
         .library(
-            name: "SwiftDoca",
-            targets: ["SwiftDoca"]
+            name: "Doca",
+            targets: ["Doca"]
         )
     ],
     targets: [
-        .target(name: "SwiftDoca")
+        .target(name: "Doca")
     ]
 )

@@ -1,6 +1,6 @@
 import Foundation
 
-//class TaskTBank {
+// class TaskTBank {
 //    let group = DispatchGroup()
 //    let lock = NSLock()
 //    var count = 0
@@ -30,4 +30,4 @@ import Foundation
 //            print(self.count) // ?
 //        }
 //    }
-//}
+// }
